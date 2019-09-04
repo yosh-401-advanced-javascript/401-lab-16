@@ -1,0 +1,25 @@
+{
+  "name": "events-lab",
+  "version": "1.0.0",
+  "description": "Events Lab",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --verbose --coverage"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "events": "^3.0.0",
+    "fs": "0.0.1-security",
+    "jest": "^24.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yosh-401-advanced-javascript/401-lab-16.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/yosh-401-advanced-javascript/401-lab-16/issues"
+  },
+  "homepage": "https://github.com/yosh-401-advanced-javascript/401-lab-16#readme"
+}
